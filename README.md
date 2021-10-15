@@ -23,7 +23,7 @@ npm i
 
 ## Usage Information
     
-Run instalations commands to install dependencies, and then run ```index.js```.
+Run instalations commands to install dependencies, and then run ```index.js```. It will create a README file called 'README2'.
 
 ## Licenses 
 
