@@ -4,6 +4,8 @@
     
 Create a README.md file, based on user-supplied information. 
 
+## [Video tutorial](https://watch.screencastify.com/v/qfqEEUUNKP7z8tpgzKfE)
+
 ## Table of content
 * [Description](#description)
 * [Instalation](#installation)
